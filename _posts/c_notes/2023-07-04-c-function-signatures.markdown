@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "int main(int argc, char** argv) "
-date:   2023-07-04 02:49:54 -0700
+date:   2023-07-04 13:34:00 -0700
 categories: c chatgpt
 ---
 
